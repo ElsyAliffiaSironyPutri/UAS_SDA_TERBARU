@@ -1,0 +1,20 @@
+{
+  "title": "Winner",
+  "seeds": [
+    {
+      "id": 1,
+      "date": "",
+      "roundTitle": "Utama",
+      "teams": [
+        {
+          "name": "",
+          "score": 0,
+          "gambar": "",
+          "alamat": "",
+          "tim": ""
+        }
+      ]
+    }
+  ],
+  "id": "Winner"
+}

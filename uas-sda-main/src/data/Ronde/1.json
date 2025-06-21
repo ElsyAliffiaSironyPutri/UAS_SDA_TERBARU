@@ -1,0 +1,90 @@
+{
+  "title": "1",
+  "seeds": [
+    {
+      "id": 1,
+      "date": "",
+      "roundTitle": "Utama",
+      "teams": [
+        {
+          "name": "ikbal",
+          "score": 0,
+          "gambar": "/gambar/laheny7.png",
+          "alamat": "sukarame",
+          "tim": "medin"
+        },
+        {
+          "name": "Dono",
+          "score": 0,
+          "gambar": "/person.png",
+          "alamat": "bantul",
+          "tim": "keilmuan"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "",
+      "roundTitle": "Utama",
+      "teams": [
+        {
+          "name": "Veri",
+          "score": 0,
+          "gambar": "/person.png",
+          "alamat": "teluk",
+          "tim": "medin"
+        },
+        {
+          "name": "Satriyo",
+          "score": 0,
+          "gambar": "/person.png",
+          "alamat": "lampung",
+          "tim": "external"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "",
+      "roundTitle": "Utama",
+      "teams": [
+        {
+          "name": "madun",
+          "score": 0,
+          "gambar": "/gambar/5foyomg.png",
+          "alamat": "sukarame",
+          "tim": "external"
+        },
+        {
+          "name": "Raffael",
+          "score": 0,
+          "gambar": "/person.png",
+          "alamat": "bantul",
+          "tim": "kewirausahaan"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "",
+      "roundTitle": "Utama",
+      "teams": [
+        {
+          "name": "Rafly Saputra",
+          "score": 0,
+          "gambar": "/gambar/lwuj082.png",
+          "alamat": "teluk",
+          "tim": "RafAI"
+        },
+        {
+          "name": "Lili",
+          "score": 0,
+          "gambar": "/person.png",
+          "alamat": "lampung",
+          "tim": "keilmuan"
+        }
+      ]
+    }
+  ],
+  "id": "1"
+}
